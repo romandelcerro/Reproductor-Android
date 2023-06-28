@@ -4,10 +4,8 @@ This is a media player on android. It is a project carried out in DAM
 
 ## Technologies Used
 
-- .Net
-- WPF
-- C#
-- Linq
+- Java
+- Android Studio
 
 ## Getting Started
 
